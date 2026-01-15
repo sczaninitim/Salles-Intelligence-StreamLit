@@ -5,7 +5,7 @@ from pytrends.exceptions import TooManyRequestsError
 import plotly.express as px
 import plotly.graph_objects as go
 import time, random
-
+#
 # =========================
 # Configuração inicial
 # =========================
